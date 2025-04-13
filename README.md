@@ -1,7 +1,8 @@
 # Document_genie
 
 ## Introduction:-
-**- Problem Statement:
+**
+- Problem Statement:
 Retrieving relevant patent information manually is time-consuming.
 - Solution:
 AI-powered chatbot for instant patent insights.
