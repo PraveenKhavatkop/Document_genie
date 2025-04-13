@@ -1,17 +1,16 @@
 # Document_genie
 
 ## Introduction:-
-**
-- Problem Statement:
+
+**- Problem Statement:**
 Retrieving relevant patent information manually is time-consuming.
-- Solution:
+**- Solution:**
 AI-powered chatbot for instant patent insights.
-**
 
 ## Technology Stack
-**- Programming Language:** Python
-**- Framework:** Streamlit
-**- Libraries & Tools:**
+- **Programming Language:** Python
+- **Framework:** Streamlit
+- **Libraries & Tools:**
 LangChain
 FAISS
 Google Gemini API
