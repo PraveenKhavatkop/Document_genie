@@ -31,10 +31,10 @@ PyPDF2
 5. Retrieve & generate answers using Gemini AI
 
 ## Demo Workflow
-Step 1: Enter API Key
-Step 2: Upload Patent PDFs
-Step 3: Ask a Question
-Step 4: Retrieve and Display Answers
+- Step 1: Enter API Key
+- Step 2: Upload Patent PDFs
+- Step 3: Ask a Question
+- Step 4: Retrieve and Display Answers
 
 ## Key Achievements
 - Successfully implemented chatbot
